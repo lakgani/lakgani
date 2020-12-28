@@ -1,3 +1,3 @@
 # Hi, this is Ganesh Pendyala
 
-I'm a Full Stack Developer with experience in React, Node and Java.
+I'm a Full Stack Developer working with React, Node and Java.
